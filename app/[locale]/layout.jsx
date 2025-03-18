@@ -26,7 +26,7 @@ const syne = Syne({
 export async function generateMetadata({ params }) {
   const { locale } = await params;
   return {
-    title: "Zenith",
+    title: "angkut ternak",
     description: locale === "en" ? "A website dev agency" : "Agen web terbaik",
     openGraph: { images: ["/metadata-image.png"] },
   };

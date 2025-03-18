@@ -11,7 +11,7 @@ export default function Navbar() {
       <div className="container">
         <div className="flex items-center justify-between">
           <Link href={"/"} className="text-secondary font-bold text-2xl">
-            Zenith
+            Angkut Ternak
           </Link>
           <div className="flex items-center gap-6">
             <LangSwitcher />

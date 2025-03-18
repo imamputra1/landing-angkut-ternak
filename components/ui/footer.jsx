@@ -90,7 +90,7 @@ export default function Footer({ settings }) {
                       </ul>
                       <div className="mt-11 flex w-full gap-4">
                         <a
-                          href={settings?.x_url}
+                          href={settings?.youtube}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-secondary bg-black transition-all duration-300 hover:border-black hover:bg-primary hover:shadow-[0_1.5px_0_0] hover:shadow-secondary"
@@ -111,7 +111,7 @@ export default function Footer({ settings }) {
                           />
                         </a>
                         <a
-                          href={settings?.facebook_url}
+                          href={settings?.facebook}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-secondary bg-black transition-all duration-300 hover:border-black hover:bg-primary hover:shadow-[0_1.5px_0_0] hover:shadow-secondary"
@@ -132,7 +132,7 @@ export default function Footer({ settings }) {
                           />
                         </a>
                         <a
-                          href={settings?.instagram_url}
+                          href={settings?.instagram}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-secondary bg-black transition-all duration-300 hover:border-black hover:bg-primary hover:shadow-[0_1.5px_0_0] hover:shadow-secondary"
@@ -153,7 +153,7 @@ export default function Footer({ settings }) {
                           />
                         </a>
                         <a
-                          href={settings?.linkedin_url}
+                          href={settings?.linkedin}
                           target="_blank"
                           rel="noopener noreferrer"
                           className="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-secondary bg-black transition-all duration-300 hover:border-black hover:bg-primary hover:shadow-[0_1.5px_0_0] hover:shadow-secondary"
