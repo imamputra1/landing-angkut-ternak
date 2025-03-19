@@ -1,4 +1,4 @@
-import { Inter, Syne } from "next/font/google";
+import { Inter, Roboto_Mono } from "next/font/google";
 import "@/app/globals.css";
 import Navbar from "@/components/ui/navbar";
 import Footer from "@/components/ui/footer";
@@ -13,7 +13,7 @@ const inter = Inter({
   display: "swap",
 });
 
-const syne = Syne({
+const robotoMono = Roboto_Mono({
   subsets: ["latin"],
   display: "swap",
 });
@@ -53,7 +53,7 @@ export default async function RootLayout({ children, params }) {
 
   return (
     <html lang={locale}>
-      <body className={`${syne.className} ${inter.className} antialiased`}>
+      <body className={`${robotoMono.className} ${inter.className} antialiased`}>
         <NextIntlClientProvider messages={messages}>
           <Navbar />
           {children}
@@ -64,4 +64,4 @@ export default async function RootLayout({ children, params }) {
       </body>
     </html>
   );
-}
+} 

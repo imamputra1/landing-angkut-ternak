@@ -96,15 +96,15 @@ export default function Footer({ settings }) {
                           className="group/link relative inline-flex h-[34px] w-[34px] items-center justify-center rounded-[50%] border border-secondary bg-black transition-all duration-300 hover:border-black hover:bg-primary hover:shadow-[0_1.5px_0_0] hover:shadow-secondary"
                         >
                           <Image
-                            src="/icon-logo-buttery-white-twitter.svg"
-                            alt="icon-logo-buttery-white-twitter"
+                            src="/icon-youtube-white-logo.svg"
+                            alt="icon-logo-buttery-white-youtube"
                             width="19"
                             height="16"
                             className="opacity-100 transition-all duration-300 group-hover/link:opacity-0"
                           />
                           <Image
-                            src="/icon-logo-black-twitter.svg"
-                            alt="icon-logo-black-twitter"
+                            src="/icon-youtube-black-logo.svg"
+                            alt="icon-logo-black-youtube"
                             width="19"
                             height="16"
                             className="absolute opacity-0 transition-all duration-300 group-hover/link:opacity-100"
@@ -192,11 +192,19 @@ export default function Footer({ settings }) {
               </div>
             </div>
           </div>
-          <div className="container py-9">
+          <div className="container py-10 pt-0 ">
             <div className="flex justify-between text-secondary">
-              <Link href={"/"} className="font-bold text-2xl">
-                Zenith
-              </Link>
+            <Link href="/">
+          <div className="flex items-center">
+            <Image
+              src="/logo-angkut-ternak-biru.svg"
+              alt="Logo"
+              width={150}
+              height={50}
+              className="mr-2"
+            />
+          </div>
+        </Link>
               <p>{t("copyright")}</p>
             </div>
           </div>

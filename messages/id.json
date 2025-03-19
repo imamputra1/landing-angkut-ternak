@@ -4,64 +4,64 @@
   },
   "HomePage": {
     "Hero": {
-      "title": "Agensi <wrapper>web</wrapper> Terbaik",
-      "description": "Kami adalah agensi pengembangan website yang berspesialisasi dalam memenuhi kebutuhan generasi baru. Kami menawarkan solusi pengembangan website yang inovatif dan mutakhir untuk membantu klien kami menonjol di era yang serba cepat saat ini.",
-      "caption": "Dipercaya oleh lebih dari seribu orang",
-      "button": "Jadwalkan konsultasi gratis"
+      "title": " Pionir <wrapper>Solusi</wrapper>Peternakan Modern",
+      "description": "Kami adalah Angkut Ternak, layanan end-to-end pertama di Indonesia yang menghadirkan ekosistem terintegrasi untuk sektor peternakan. Tidak hanya sekadar logistik, kami menyediakan solusi hulu-hilir yang lengkap, mulai dari Moo sebagai platform jejaring peternak, Toko Ternak untuk transaksi jual beli ternak, hingga Pindah Ternak sebagai layanan logistik berbasis teknologi.",
+      "caption": "Dipercaya oleh lebih dari ratusan peternak dan mitra",
+      "button": "Kontak kami untuk informasi lebih lanjut"
     },
     "Service": {
-      "title": "Kami tawarkan beragam <wrapper>solusi</wrapper>",
+      "title": "Solusi untuk <wrapper>Anda</wrapper>",
       "content": {
         "item_1": {
-          "title": "Desain UI/UX",
-          "description": "Berfokus pada desain antarmuka pengguna (UI) dan pengalaman pengguna (UX) untuk meningkatkan kegunaan dan aksesibilitas produk digital dan aplikasi."
+          "title": "Toko Ternak",
+          "description": "Toko Ternak adalah marketplace khusus untuk sektor peternakan, memudahkan peternak dan pembeli dalam bertransaksi jual beli ternak secara online. Dengan antarmuka yang ramah pengguna dan fitur lengkap, Toko Ternak menjadi solusi terpercaya untuk meningkatkan efisiensi dan perluasan pasar dalam industri peternakan."
         },
         "item_2": {
-          "title": "Desain Grafis",
-          "description": "Membuat elemen visual seperti logo, materi branding, teknik tata letak halaman, brosur, dan materi pemasaran lainnya."
+          "title": "Pindah ternak",
+          "description": "Pindah Ternak adalah layanan angkutan ternak berbasis teknologi, dilengkapi dengan sistem tracking lokasi dan monitoring tingkat stres hewan selama perjalanan. Dengan layanan ini, kami memastikan ternak Anda tiba di tujuan dengan aman, nyaman, dan dalam kondisi optimal."
         },
         "item_3": {
-          "title": "Desain Website",
-          "description": "Merancang dan mengembangkan website untuk memastikan tampilannya menarik, ramah pengguna, dan fungsional."
+          "title": "MOO",
+          "description": "MOO adalah media sosial peternak yang dirancang untuk membangun jaringan dan komunitas di sektor peternakan. Terintegrasi dengan Toko Ternak, MOO menghadirkan konsep social commerce yang memungkinkan peternak berinteraksi, berbagi pengetahuan, sekaligus melakukan transaksi bisnis dalam satu platform."
         },
         "item_4": {
-          "title": "Motion Graphics",
-          "description": "Membuat grafik animasi, video untuk berbagai keperluan termasuk pemasaran dan hiburan, untuk membantu menjual produk atau layanan."
+          "title": "DITernak",
+          "description": "DITernak adalah sistem manajemen kesehatan hewan ternak yang fokus pada pemantauan dan perawatan hewan di kandang. Dengan teknologi canggih, DITernak membantu peternak mengoptimalkan kesehatan ternak, mencegah penyakit, dan meningkatkan produktivitas secara berkelanjutan."
         }
       }
     },
     "About": {
-      "title": "Kami <wrapper>membuat</wrapper> bisnismu menonjol",
-      "description": "Kami bekerja sama dengan klien untuk mengetahui tujuan mereka, target audiens, kebutuhan unik, dan solusi desain yang praktis.",
+      "title": "Kami <wrapper>solusi untuk</wrapper> peternak naik kelas",
+      "description": "Angkut Ternak berkomitmen menjadi solusi terdepan bagi peternak, khususnya peternak rakyat, yang menjadi tulang punggung sektor peternakan di Indonesia. Dari hulu ke hilir, kami menyediakan layanan terintegrasi yang mendukung setiap tahap usaha peternakan.",
       "content": {
-        "experience": "Tahun pengalaman",
-        "project": "Proyek sukses",
-        "satisfaction": "Tingkat kepuasan klien"
+        "experience": "Tahun berkomitmen membantu peternak rakyat.",
+        "project": "Peternak terbantu melalui layanan kami",
+        "satisfaction": "Peningkatan produktivitas peternak rakyat "
       }
     },
     "Process": {
       "title": "Proses <wrapper>kerja</wrapper> berkualitas tinggi",
-      "description": "Kami fokus pada komunikasi dan kolaborasi yang efektif dengan klien di setiap tahap, memastikan desain akhir memenuhi tujuan dan harapan mereka.",
-      "description_2": "Penting untuk dicatat bahwa langkah-langkah ini telah disederhanakan, dan proses kerja sebenarnya dapat berbeda tergantung pada tingkat kompleksitas proyek.",
+      "description": "KKami fokus pada komunikasi dan kolaborasi yang efektif dengan peternak di setiap tahap, memastikan layanan kami memenuhi kebutuhan dan harapan mereka.",
+      "description_2": "Proses kerja kami dirancang untuk memberikan solusi terbaik, mulai dari konsultasi hingga pelaksanaan.",
       "content": {
         "item_1": {
-          "title": "Gagasan proyek",
-          "description": "Proses dimulai dengan diskusi mendetail dengan klien untuk memahami ide dan tujuan mereka."
+          "title": "perencanaan dan Integrasi",
+          "description": "Tim kami merancang solusi terbaik dengan memanfaatkan ekosistem Angkut Ternak (Toko Ternak, Pindah Ternak, MOO, dan DITernak) yang disesuaikan dengan kebutuhan peternak."
         },
         "item_2": {
-          "title": "Brainstorming",
-          "description": "Proses dimulai dengan diskusi mendetail dengan klien untuk memahami ide dan tujuan mereka."
+          "title": "Pelaksanaan dan Monitoring",
+          "description": "Kami menjalankan layanan dengan teknologi terkini, termasuk tracking lokasi dan monitoring kesehatan ternak, untuk memastikan semua berjalan lancar."
         },
         "item_3": {
-          "title": "Peluncuran",
-          "description": "Proses dimulai dengan diskusi mendetail dengan klien untuk memahami ide dan tujuan mereka."
+          "title": "Evaluasi dan Dukungan Lanjutan",
+          "description": "Setelah proyek selesai, kami memberikan evaluasi dan dukungan berkelanjutan untuk memastikan peternak terus berkembang."
         }
       }
     }
   },
   "Footer": {
-    "title": "Mari <wrapper>mulai</wrapper> project bersama",
-    "description": "Kami bekerja sama dengan klien untuk memahami tujuan, target audiens, dan kebutuhan unik mereka. Kami menggunakan keterampilan kreatif kami untuk menerjemahkan kebutuhan ini menjadi solusi desain yang praktis.",
+    "title": "Mari wujudkan <wrapper>solusi logistik</wrapper>ternak terbaik bersama",
+    "description": "Kami bekerja sama dengan peternak dan pelaku bisnis untuk memahami kebutuhan, tantangan, dan tujuan mereka. Dengan ekosistem terintegrasi kami—Moo untuk jejaring peternak, Toko Ternak untuk transaksi jual beli ternak, dan Pindah Ternak untuk logistik berbasis teknologi—kami menghadirkan solusi end-to-end yang praktis, efisien, dan terpercaya bagi industri peternakan.",
     "contact": {
       "telephone": "Telepon kami:",
       "email": "Kirimi kami email:"
@@ -73,7 +73,7 @@
       "telephone": "Nomor Telepon",
       "button": "Kirim Pesan"
     },
-    "copyright": "© Hak Cipta 2024, Semua Hak Dilindungi oleh Zenith",
-    "marquee": "Ciptakan pengalaman baru"
+    "copyright": "© Hak Cipta 2024, Semua Hak Dilindungi oleh Angkut ternak",
+    "marquee": "Ternak Aman, Bersama Angkut Ternak"
   }
 }
